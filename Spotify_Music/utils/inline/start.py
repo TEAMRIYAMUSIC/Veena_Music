@@ -27,7 +27,7 @@ def private_panel(_):
     buttons = [
         [
             InlineKeyboardButton(text=" ʜᴇʟᴘ ", callback_data="settings_back_helper"),
-            InlineKeyboardButton(text=" 𝑰𝒔𝒕𝒌𝒉𝒂𝒓 ", url=f"https://t.me/ll_ISTKHAR_ll"),
+            InlineKeyboardButton(text=" ꧁•⊹٭𝙺𝙾𝚄𝚂𝙷𝙰𝙻٭⊹•꧂ ", url=f"https://t.me/koushals84"),
             ],
                     [
                     InlineKeyboardButton(text=" ᴀᴅᴅ ᴍᴇ ᴛᴏ ɢʀᴏᴜᴘ ", url=f"https://t.me/{app.username}?startgroup=true",
